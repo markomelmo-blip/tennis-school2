@@ -1,0 +1,7 @@
+:HL["/_next/static/css/b67f3eb006d382fa.css","style"]
+:HL["/images/hero-athlete.png","image"]
+:HL["/images/about-coaching.png","image"]
+:HL["/images/pricing-court.png","image"]
+:HL["/images/cta-player.png","image"]
+:HL["/images/footer-court.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"eZX92uRp1v2cQ82TiUpAw"}
